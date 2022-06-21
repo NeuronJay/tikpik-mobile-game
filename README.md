@@ -15,9 +15,15 @@ An IOS mobile game where you take photos of the labels that you have been asked 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![ss1](https://raw.githubusercontent.com/NeuronJay/tikpik-mobile-game/main/images/screenshot1.png)
+![ss2](https://raw.githubusercontent.com/NeuronJay/tikpik-mobile-game/main/images/screenshot2.png)
+![ss3](https://raw.githubusercontent.com/NeuronJay/tikpik-mobile-game/main/images/screenshot3.png)
+
+<!--
 [![Product Name Screen Shot][product-screenshot1]](https://github.com/neuronjay)
 [![Product Name Screen Shot][product-screenshot2]](https://github.com/neuronjay)
 [![Product Name Screen Shot][product-screenshot3]](https://github.com/neuronjay)
+-->
 
 Tikpik was started with the idea of making data set collection for companies a bit cheaper and making a game out of it so that users can have fun, redeem points, and offers.  The app uses ML Model to identify and match the photos taken by the users and if correct, users are awarded accordingly. 
 
