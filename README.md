@@ -30,7 +30,7 @@ Here are some key features:
 
 Here's the marketing explanation video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fdshaIM1EgQ/100.jpg)](https://www.youtube.com/watch?v=fdshaIM1EgQ)
+[![IMAGE ALT TEXT HERE](images/video-thumbnail.png)](https://www.youtube.com/watch?v=fdshaIM1EgQ)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
