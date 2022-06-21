@@ -34,8 +34,8 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-* [Swift UI]([https://developer.apple.com/xcode/swiftui/]
-* [Core Swift]([https://developer.apple.com/swift/]
+* [Swift UI](https://developer.apple.com/xcode/swiftui/)
+* [Core Swift](https://developer.apple.com/swift/)
 * [Core ML - MobileNet](https://developer.apple.com/documentation/coreml)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -96,11 +96,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/neuronjay/tikpik-mobile-game/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -127,7 +125,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@jaydev13](https://twitter.com/jaydev13) - jay@snoolink.me
+Name: [@jaydev13](https://twitter.com/jaydev13) - jay@snoolink.me
 
 Project Link: [https://github.com/neuronjay](https://github.com/neuronjay)
 
@@ -150,5 +148,5 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/snoolink
+[linkedin-url]: https://linkedin.com/in/jaydev13
 [product-screenshot]: images/screenshot.png
