@@ -56,8 +56,8 @@ You will be required to have an IOS Device with Xcode installed to run the app i
 Once you run the app, and submit the photo that you have taken from the app.
 The mobile net decides whether it is a correct image or not.
 
-![SuccessPage](https://youtu.be/fdshaIM1EgQ)
-![FailurePage](http://url/to/img.png)
+![SuccessPage](https://raw.githubusercontent.com/NeuronJay/tikpik-mobile-game/main/images/screenshot5.jpeg)
+![FailurePage](https://raw.githubusercontent.com/NeuronJay/tikpik-mobile-game/main/images/screenshot6.jpeg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
