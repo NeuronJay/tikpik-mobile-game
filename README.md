@@ -16,9 +16,9 @@ An IOS mobile game where you take photos of the labels that you have been asked 
 ## About The Project
 
 <p>
-<img src="images/screenshot1.png" width="300" title="hover text">
-<img src="images/screenshot2.png" width="300" title="hover text">
-<img src="images/screenshot3.png" width="300" title="hover text">
+<img src="images/screenshot1.png" width="200" title="hover text">
+<img src="images/screenshot2.png" width="200" title="hover text">
+<img src="images/screenshot3.png" width="200" title="hover text">
  </p>
 
 Tikpik was started with the idea of making data set collection for companies a bit cheaper and making a game out of it so that users can have fun, redeem points, and offers.  The app uses ML Model to identify and match the photos taken by the users and if correct, users are awarded accordingly. 
@@ -30,7 +30,7 @@ Here are some key features:
 
 Here's the marketing explanation video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fdshaIM1EgQ/0.jpg)](https://www.youtube.com/watch?v=fdshaIM1EgQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fdshaIM1EgQ/100.jpg)](https://www.youtube.com/watch?v=fdshaIM1EgQ)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -69,23 +69,6 @@ The mobile net decides whether it is a correct image or not.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/neuronjay/tikpik-mobile-game/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
