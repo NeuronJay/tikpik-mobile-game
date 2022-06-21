@@ -24,6 +24,10 @@ Here are some key features:
 * Take a photo from the camera from the app
 * Uses Core ML MobileNet Model to classify the images. - Identify is a photo submitted for category 'apple' is an apple or not 
 
+Here's the marketing explanation video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fdshaIM1EgQ/0.jpg)](https://www.youtube.com/watch?v=fdshaIM1EgQ)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
